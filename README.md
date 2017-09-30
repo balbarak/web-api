@@ -1,2 +1,2 @@
-# web-api
-Building simple web api using ASPNET Core 2.0
+# Introduction
+This project to give you overview of ASPNET Core 2.0 Web API
