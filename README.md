@@ -39,4 +39,7 @@ Now listening on: http://localhost:5000
 Application started. Press Ctrl+C to shut down.
 ```
 
->*  Now your application is listening on http://localhost:5000
+>  Now your application is listening on http://localhost:5000
+> Open your browser to the link http://localhost:5000/api/date
+
+
